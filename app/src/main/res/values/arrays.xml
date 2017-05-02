@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ImgURL" >
+
+        <item>   https://static1.squarespace.com/static/5690206b69a91a188ab362de/t/569167ffc21b8644c8b41803/1452369991140/20160108_233832.jpg?format=1500w</item>
+        <item> https://media-cdn.tripadvisor.com/media/photo-s/0b/06/1a/ce/1836-steakhouse.jpg</item>
+        <item>https://imgsrv2.aramcoexpats.com/lifestyles/special_interest/ar_Chicken-Fried-Texas_02-.jpg</item>
+        <item>http://www.buffalowildwings.com/Global/menutier_pdfs/bww_building.jpg</item>
+        <item>https://s3-media2.fl.yelpcdn.com/bphoto/HUVh2iCcjmPKc_ExiFoqqQ/o.jpg</item>
+        <item>https://www.tanglinmall.com.sg/wp-content/uploads/2013/03/logo_web.jpg</item>
+        <item>https://media-cdn.tripadvisor.com/media/photo-s/0a/2f/7a/da/overview-of-humphrey.jpg</item>
+        <item>https://s3-media2.fl.yelpcdn.com/bphoto/bWffMxgq0rubKcABqxg65g/o.jpg</item>
+        <item>https://s3-media3.fl.yelpcdn.com/bphoto/3Z5OhnTwOgdqPGCizdTt8Q/o.jpg</item>
+        <item>https://s3-media1.fl.yelpcdn.com/bphoto/uHJ3G4eSm1SnrK79_bC1hg/o.jpg</item>
+        <item>https://s3-media4.fl.yelpcdn.com/bphoto/nGpZfswGgV_xf3HDJWODxA/ls.jpg</item>
+        <item>https://s3-media2.fl.yelpcdn.com/bphoto/deOoL_a_D7Lqu-lNiyeRBA/o.jpg</item>
+        <item>https://s3-media4.fl.yelpcdn.com/bphoto/bWSpKDV2zgfaaEDyNY6wWg/o.jpg</item>
+        <item>http://rodeohuntsville.com/wp-content/uploads/2015/11/menusoftexas_rodeomexicanbarandgrill_photo_01.jpg</item>
+        <item>http://www.outhousetickets.com/venue/179/custom/header.jpg</item>
+        <item>https://scontent-dft4-1.xx.fbcdn.net/v/t1.0-9/184977_131401976928611_6764370_n.jpg?oh=f8d2b371864f887ef55ed1fe9c79b72e&amp;oe=5986AE7C</item>
+        <item>https://media-cdn.tripadvisor.com/media/photo-s/08/a9/c7/9e/toasted.jpg</item>
+        <item>http://3.bp.blogspot.com/-e05hAxdqU64/TfpSsOzgowI/AAAAAAAAANI/swm0zg7m3UE/s1600/005.JPG</item>
+        <item>https://media-cdn.tripadvisor.com/media/photo-s/0a/2f/78/fb/overview-of-zach-s.jpg</item>
+        <item>http://www.outhousetickets.com/venue/179/custom/header.jpg</item>
+    </string-array>
+
+
+</resources>

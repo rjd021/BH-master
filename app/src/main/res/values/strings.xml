@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">BoozeHound1.2</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="facebook_app_id">180924102397642</string>
+    <string name="fb_login_protocol_scheme">fb180924102397642</string>
+
+	<!-- Strings related to Google login -->
+	<string name="server_client_id">867219202032-rv18vbudnjme4215d0ramdqrjs09ajjl.apps.googleusercontent.com</string>
+    <string name="drawer_open" />
+    <string name="drawer_close" />
+
+    <string-array name="day_array">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+
+
+
+    <string name="drawer_item_home">Home</string>
+    <string name="drawer_item_free_play">Free Play</string>
+    <string name="drawer_item_custom">Custom</string>
+    <string name="drawer_item_section_header">Section Header</string>
+    <string name="drawer_item_settings">Settings</string>
+
+</resources>

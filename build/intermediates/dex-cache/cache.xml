@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ryan\Downloads\BH-master\app\libs\GenAsync.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0f5e48bcb980aa260360949d8c5bc5b348359ee2">
+        <dex dex="C:\Users\Ryan\Downloads\BH-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\GenAsync.1.2_44408570c06fc4033f3ba3edf2da67228d764899\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ryan\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Ryan\Desktop\BH\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_adfffec2098596ba8b8b98bef24fb03a75faf020\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ryan\Downloads\BH-master\app\libs\gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="C:\Users\Ryan\Downloads\BH-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\gson-2.6.2_32cd6f99e3cf6cb85975dd0ab14730717258334b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ryan\Downloads\BH-master\app\libs\KGJsonConverter.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cea743dc2e193922f7e7dc34858ef15b00afc6db">
+        <dex dex="C:\Users\Ryan\Downloads\BH-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\KGJsonConverter_c48b67e18090de91e632fc06a61006f463bda211\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ryan\.android\build-cache\48e1eff1ac29f2a3327d6e72afb0c7f65edac53b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="82d4c48dd72c89bef6d199675ac3d1041fdc77da">
+        <dex dex="C:\Users\Ryan\Desktop\BH\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1df14cf7da1cb8d9cf6d55662dd094d7e87572ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ryan\.android\build-cache\a49e46c3d796aee37325428ffb7001ee2d9e60d7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="08303b8b376b0399b932f863fc616109833f7124">
+        <dex dex="C:\Users\Ryan\Desktop\BH\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b7aee25a95a3ac19c420ef3ea8957d4ea012ec56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ryan\Desktop\BH\app\libs\gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="C:\Users\Ryan\Desktop\BH\app\build\intermediates\transforms\dex\debug\folders\1000\2\gson-2.6.2_ff4beb4a95d645c3b90e0cf96a99a44d3d1aba26\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ryan\.android\build-cache\0c397685a7f6e29c93a07147218563708b506863\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf61bf8eaae33094f5db5c6c9676e618babd9178">
+        <dex dex="C:\Users\Ryan\Desktop\BH\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_05ff842f9c23713954f96efb0626fd66cdcc2197\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ryan\.android\build-cache\b3305cd37855904659c2828ad6957ddace6ecd4b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddf6763cb30af9e449dc8c4baef2940ee05d5686">
+        <dex dex="C:\Users\Ryan\Desktop\BH\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2cd7de33e884a6528f24cc84cea7efef4fd9ce48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ryan\Desktop\BH\app\libs\GenAsync.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0f5e48bcb980aa260360949d8c5bc5b348359ee2">
+        <dex dex="C:\Users\Ryan\Desktop\BH\app\build\intermediates\transforms\dex\debug\folders\1000\2\GenAsync.1.2_2c82fe0be1aa505784a5934bd4d825f63c44e33b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ryan\Desktop\BH\app\libs\KGJsonConverter.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cea743dc2e193922f7e7dc34858ef15b00afc6db">
+        <dex dex="C:\Users\Ryan\Desktop\BH\app\build\intermediates\transforms\dex\debug\folders\1000\2\KGJsonConverter_3003fd4f29d1482c0e19499453bd3e53c404331c\classes.dex" />
+    </item>
+
+</items>

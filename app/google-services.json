@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "867219202032",
+    "project_id": "firebase-boozehound"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867219202032:android:27d689d63f1b7a06",
+        "android_client_info": {
+          "package_name": "com.boozehound.boozehound12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867219202032-rv18vbudnjme4215d0ramdqrjs09ajjl.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "867219202032-vga2ck6vpu6p7qij10vj2dgtov8o5i4g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.samples.quickstart.signin",
+            "certificate_hash": "99b478e541aa48f18b613b3f5ca5181a437ecf08"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK9hd-lgCmDQ5LoxqV_jCFTzMm4C_JP9Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
